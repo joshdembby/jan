@@ -1,0 +1,21 @@
+body{
+    width: 100%;
+    background-image: url(flogarden.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+h1{
+    color: white;
+    font-size: 200px;
+    text-align: center;
+    
+}
+footer{
+    font-size: 100px;
+    color: blue;
+}
+
+
+
+
